@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is Dilnaz. I am a rising sophomore at Minerva University studying Computer Science and Artificial Intelligence.
+
 
 <!--
 **dilnazua/dilnazua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
