@@ -1,6 +1,10 @@
 ### Hi there 👋
- My name is Dilnaz. I am a rising sophomore at Minerva University studying Computer Science and Artificial Intelligence.
+My name is Dilnaz. I am a rising sophomore at Minerva University studying Computer Science and Artificial Intelligence.
+ 
+Get in Touch
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/dilnaz-uasheva/).
 
+✉️ Email me at dilnaz.uasheva@uni.minerva.edu
 
 <!--
 **dilnazua/dilnazua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
