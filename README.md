@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Dilnaz. I am a rising sophomore at Minerva University studying Computer Science and Artificial Intelligence.
+ My name is Dilnaz. I am a rising sophomore at Minerva University studying Computer Science and Artificial Intelligence.
 
 
 <!--
