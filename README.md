@@ -1,7 +1,10 @@
 ### Hi there 👋
 My name is Dilnaz. I am a rising sophomore at Minerva University studying Computer Science and Artificial Intelligence.
 
-I'm also a passionate software developer who is challenging herself in different fields, such as production engineering, machine learning, and cybersecurity. I love problem-solving and contributing to open-source projects. Apart from tech, I enjoy biking and making desserts :)
+I'm also a passionate software developer who loves challenging herself in various fields, including production engineering, machine learning, game development and cybersecurity. I thrive on problem-solving and contributing to open-source projects. 🚀
+
+Apart from tech, I enjoy biking 🚴‍♀️ and indulging in the art of making desserts. 🍰
+
 
 Get in Touch
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/dilnaz-uasheva/).
