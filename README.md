@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dilnaz. I am a rising sophomore at Minerva University studying Computer Science and Artificial Intelligence.
+My name is Dilnaz. I am a junior at Minerva University studying Computer Science and Artificial Intelligence.
 
 I'm also a passionate software developer who loves challenging herself in various fields, including production engineering, machine learning, game development and cybersecurity. 
 
