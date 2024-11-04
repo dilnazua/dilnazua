@@ -1,8 +1,6 @@
 ### Hi there 👋
 My name is Dilnaz. I am a junior at Minerva University studying Computer Science and Artificial Intelligence.
 
-I'm also a passionate software developer who loves challenging herself in various fields, including production engineering, machine learning, game development and cybersecurity. 
-
 
 Get in Touch
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/dilnaz-uasheva/).
